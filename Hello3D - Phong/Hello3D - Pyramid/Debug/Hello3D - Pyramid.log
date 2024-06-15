@@ -1,0 +1,10 @@
+﻿  Origem.cpp
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\Meu repositório\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(77,19): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\Meu repositório\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(253,20): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\Meu repositório\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(281,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\Meu repositório\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(282,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\Meu repositório\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(286,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\Meu repositório\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(287,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\Meu repositório\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(289,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\Meu repositório\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(290,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Hello3D - Pyramid.vcxproj -> C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\Meu repositório\Hello3D - Phong\Debug\Hello3D - Phong.exe
